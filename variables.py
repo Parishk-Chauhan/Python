@@ -19,7 +19,7 @@ print(name)
 
 x = 5   # it is an integer 
 print(x)
-x = "Nandini Chauhan"               # x is reassigned to be a str
+x = "Gunnu Chauhan"               # x is reassigned to be a str
 print(x)
 
 # Casting : If you want to specify the data type of a variable, this can be done with casting.
